@@ -1,7 +1,7 @@
 # spring-circuit-breaker
 
 How to run application:
-1) Clone the repository: git colne https://github.com/pdilip1/spring-circuit-breaker
+1) Clone the repository: git clone https://github.com/pdilip1/spring-circuit-breaker
 2) Main class is com.example.demo.DemoApplication
 3) go to spring-circuit-breaker/demo directory and run following commands. 
  a) mvn clean install
